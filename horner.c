@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+
 int main(){
 
  float A[50];/* tableau des coefficients de P */
@@ -23,4 +24,5 @@ int main(){
  
  printf("Valeur du polynôme pour x = %.2f : %.2f\n", x, p);
  return 0;
+ 
 }
