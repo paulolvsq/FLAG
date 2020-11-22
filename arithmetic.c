@@ -153,7 +153,7 @@ int main() {
   inverse_modulaire(120, 23);
 
   euclide_classique(119, 2);
-  
+
   return 0;
 
 }
